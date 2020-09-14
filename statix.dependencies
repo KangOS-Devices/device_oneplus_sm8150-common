@@ -1,0 +1,22 @@
+[
+  {
+    "repository"  : "KangOS-Devices/Neptune_kernel_sm8150_oneplus",
+    "target_path" : "kernel/oneplus/sm8150",
+    "branch" : "new/caf-4.14"
+  },
+   {
+    "repository"  : "KangOS-Devices/android_vendor_oneplus",
+    "target_path" : "vendor/oneplus",
+    "branch" : "10"
+  },
+  {
+    "repository"  : "KangOS-Devices/device_oneplus_common",
+    "target_path" : "device/oneplus/common",
+    "branch" : "10"
+  },
+  {
+    "repository"  : "LineageOS/android_packages_resources_devicesettings",
+    "target_path" : "packages/resources/devicesettings",
+    "branch" : "lineage-17.1"
+  }
+]
